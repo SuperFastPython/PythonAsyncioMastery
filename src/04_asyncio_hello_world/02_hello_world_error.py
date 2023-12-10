@@ -3,9 +3,9 @@
 import asyncio
 
 # define a coroutine
-async def custom_coroutine():
+async def main():
 	# report a message
     print('Hello world')
 
 # create a coroutine
-custom_coroutine() # error
+main() # error

@@ -41,7 +41,7 @@ async def connect_user(reader, writer):
     await broadcast_message(
         f'{name} has connected\n')
     # welcome message
-    welcome = f'Welcome {name}. ' +
+    welcome = f'Welcome {name}. ' + \
         'Send QUIT to disconnect.\n'
     writer.write(welcome.encode())
     await writer.drain()

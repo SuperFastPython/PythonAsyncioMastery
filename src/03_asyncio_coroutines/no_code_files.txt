@@ -1,3 +1,0 @@
-There are no full code listings in this chapter.
-
-Therefore, there are no code files in this directory.

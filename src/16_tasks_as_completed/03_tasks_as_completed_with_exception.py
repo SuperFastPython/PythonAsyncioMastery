@@ -22,7 +22,7 @@ async def main():
     # get results as coroutines are completed
     for coro in asyncio.as_completed(coros):
         # get the result from the next to complete
-        result = await coro
+        result = await coro # exception
         # report the result
         print(f'>got {result}')
 

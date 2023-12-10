@@ -24,7 +24,7 @@ async def main():
     # wait a moment for the task to be canceled
     await asyncio.sleep(0.1)
     # get the result
-    value = task.result()
+    value = task.result() # exception
     print(f'result: {value}')
     # report a final message
     print('main coroutine done')

@@ -22,7 +22,7 @@ async def main():
     tasks = asyncio.all_tasks()
     # wait for all tasks to complete
     for task in tasks:
-        await task
+        await task # exception
 
 # start the asyncio event loop
-asyncio.run(main()) # error
+asyncio.run(main())

@@ -3,9 +3,9 @@
 import asyncio
 
 # define a coroutine
-async def custom_coroutine():
+async def main():
 	# report a message
     print('Hello world')
 
 # start the asyncio event loop
-asyncio.run(custom_coroutine())
+asyncio.run(main())
