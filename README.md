@@ -18,7 +18,13 @@ You can access all Python .py files directly here:
 ## Get the Book
 You can learn more about the book here:
 
-* Coming soon
+* [SuperFastPython](https://superfastpython.com/python-asyncio-mastery/)
+* [GumRoad](https://superfastpython.gumroad.com/l/pam)
+* [Amazon Kindle](https://amzn.to/3tae9Cv)
+* [Amazon Paperback](https://amzn.to/3v7umss)
+* [Google Books](http://books.google.com/books/about?id=EOjoEAAAQBAJ)
+* [Google Play](https://play.google.com/store/books/details?id=EOjoEAAAQBAJ)
+* [GoodReads](https://www.goodreads.com/book/show/203657663-python-asyncio-mastery)
 
 ### Book Blurb
 
